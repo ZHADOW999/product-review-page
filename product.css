@@ -24,7 +24,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 100px;
+    margin-top: 150px;
     height: 415px;
 }
 .product-image{
@@ -36,7 +36,7 @@ picture{
 
 
  img{
-    width: 260px;
+    width: 270px;
     height: 100%;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
